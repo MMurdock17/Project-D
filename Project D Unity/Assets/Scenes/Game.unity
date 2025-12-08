@@ -1833,18 +1833,7 @@ MonoBehaviour:
   camera: {fileID: 330585545}
   fireRate: 10
   hitVFX: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0, type: 3}
-  mag: 5
-  ammo: 30
-  magAmmo: 30
-  shootSFXIndex: 0
-  magText: {fileID: 0}
-  ammoText: {fileID: 0}
-  anim: {fileID: 0}
-  reload: {fileID: 0}
-  recoverPercent: 0.7
-  recoilUp: 0.07
-  recoilBack: 0.07
-  recovering: 0
+  shootSFXIndex: 1
 --- !u!1001 &934143688
 PrefabInstance:
   m_ObjectHideFlags: 0
