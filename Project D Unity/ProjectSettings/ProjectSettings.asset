@@ -823,6 +823,7 @@ PlayerSettings:
   webWasm2023: 0
   scriptingDefineSymbols:
     Standalone: Breeze_Behaviour
+    WebGL: Breeze_Behaviour
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
